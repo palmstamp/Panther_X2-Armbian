@@ -224,7 +224,7 @@ on:
       builder_name:
         description: "Set Armbian builder signature."
         required: false
-        default: "ophub"
+        default: ".P."
         type: choice
         options:
           - ophub
