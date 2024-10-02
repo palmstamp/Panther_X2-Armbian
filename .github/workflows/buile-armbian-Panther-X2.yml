@@ -1,9 +1,9 @@
 #==========================================================================
-# Description: Build Armbian
+# Description: Build Armbian for Panther-X2
 # Copyright (C) 2021 https://github.com/ophub/amlogic-s9xxx-armbian
 #==========================================================================
 
-name: Build armbian
+name: Build armbian for Panther-X2
 
 on:
   repository_dispatch:
